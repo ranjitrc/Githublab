@@ -4,3 +4,6 @@ test
 file
 github
 End Line
+thanks for coming to class
+have a great weekend!
+:-)
